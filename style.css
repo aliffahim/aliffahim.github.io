@@ -106,7 +106,8 @@ a {
 }
 
 footer {
-    padding: 10px 25px 10px 25px;
+    margin-top: 30px;
+    padding: 5px 25px 5px 25px;
     background-color: rgb(121,125,127);
     color: white;
 }
